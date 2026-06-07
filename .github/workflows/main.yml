@@ -7,7 +7,6 @@ on:
 
 jobs:
   test:
-    runs-code: true
     runs-on: ubuntu-latest
     steps:
       - name: 24f2006763@ds.study.iitm.ac.in
